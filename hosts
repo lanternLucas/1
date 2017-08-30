@@ -1,8 +1,14 @@
 # Go Hosts
 # 2017-08-23 23:33:18
 
+# Modified Hosts Start
+# Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
-::1	localhost ip6-localhost ip6-loopback
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
 216.58.200.192	www.google.com
 216.58.200.192	google.com
 216.58.200.192	gcr.io
@@ -13542,3 +13548,5 @@
 151.101.64.84	engineering.pinterest.com
 151.101.64.84	ak.pinterest.com
 151.101.64.84	*.pinterest.com
+
+# Modified Hosts End
